@@ -7,6 +7,17 @@
  
 This project will be looking at the effects of drought on California’s wildfire frequency and intensity levels throughout the years 2000 - present. The data used to conduct this analysis will come from California’s Department of Forestry and Fire Protection Services (CalFire) and the United States Drought Monitor. This analysis will be diving into the yearly average acres burned from wildfires and the yearly average drought levels across California. We will be determining which areas of California are the most affected by the drought and increasing wildfires. Along with how much of California’s population is affected by drought and wildfires.  
 
+# Questions Asked throughout this project
+What are the average drought rates over time?
+
+What is the count of our different drought rates from 2000 - presnt?
+
+How is California’s drought altering wildfire frequency and intensity throughout California?
+
+How do these drought patterns change over time and what levels of drought is CA experiancing?
+
+Where are we seeing wildfires in CA and how big are these fires? 
+
 # Drought Levels in CA from 2000 - Present
 ![Drought Levels in CA from 2000 - Present](https://github.com/aharris206/Project_01/blob/Maddy/Images/Drought%20Level%20over%20time_Final.png)
 From graph one we can see more occurrences of extreme drought levels (D4 - D5) occurring from 2015 - present.
