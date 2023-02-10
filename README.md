@@ -41,9 +41,16 @@ While there can be many factors affecting wildfires, with the data we observed, 
 
 ## Tasks and Contributions
 
-### • Aster - A couple of additions I added that may have been pushed to the main branch. 
+### • Aster Harris - A couple of additions I added that may have been pushed to the main branch. 
 I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`*
 I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (:
 
-### Maddy Gutieruiz - Tasks and contributions
+### Maddy Gutieruiz
 Developed the project proposal documentation, wrote project background, coordinated project tasks for team, found data used throughout the project, created figures 2 and 3, compiled figures and developed the presentation.
+
+### Lauren Huffmire
+
+### Sara Zhu
+
+### Terry Goins
+
