@@ -39,6 +39,7 @@ Figure 3 shows the areas of CA experience the higher drought levels (Categories 
 While there can be many factors affecting wildfires, with the data we observed, we believe there is a correlation between higher levels of drought and the frequency/intensity of wildfires in California. We observed that there were more wildfires, and more intense wildfires, in years that California was in a severe to exceptional drought level; therefore, we believe that drought does have an effect on the intensity/frequency of wildfires.
 
 
+## Tasks and Contributions
 
 ### • Aster - A couple of additions I added that may have been pushed to the main branch. 
 I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`*
