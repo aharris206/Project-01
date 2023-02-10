@@ -50,6 +50,9 @@ Figure 6
 ## Summary 
 While there can be many factors affecting wildfires, with the data we observed, we believe there is a correlation between higher levels of drought and the frequency/intensity of wildfires in California. We observed that there were more wildfires, and more intense wildfires, in years that California was in a severe to exceptional drought level; therefore, we believe that drought does have an effect on the intensity/frequency of wildfires.
 
+## Challenges
+
+
 
 ## Tasks and Contributions
 
