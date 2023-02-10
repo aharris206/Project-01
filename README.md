@@ -18,13 +18,15 @@ How do these drought patterns change over time and what levels of drought is CA 
 
 Where are we seeing wildfires in CA and how big are these fires? 
 
-# Drought Levels in CA from 2000 - Present
+# Figures 
+
+### Drought Levels in CA from 2000 - Present
 ![Drought Levels in CA from 2000 - Present](https://github.com/aharris206/Project_01/blob/Maddy/Images/Drought%20Level%20over%20time_Final.png)
 
 Figure 2 is displaying occurances of drought condiations over time. We can see more occurrences of extreme drought levels (Categories D2 - D4) occurring from 2015 - present compared to previous years. 
 
 
-# California areas under drought conditions from 2000 - Present
+### California areas under drought conditions from 2000 - Present
 ![Area under drought conditions](https://github.com/aharris206/Project_01/blob/Maddy/Images/CA%20area%20in%20drought_Final.png)
 
 Figure 3 shows the areas of CA experience the higher drought levels (Categories D2 - D4). We can see that there are more areas that experiance D2 - D4 levels of drought more often in 2012 - present.
