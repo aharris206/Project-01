@@ -8,6 +8,8 @@ Climate change, primarily caused by the burning of fossil fuels, is increasing t
 
 This project will be looking at the effects of drought on California’s wildfire frequency and intensity levels throughout the years 2000 - present. The data used to conduct this analysis will come from California’s Department of Forestry and Fire Protection Services (CalFire) and the United States Drought Monitor. This analysis will be diving into the yearly average acres burned from wildfires and the yearly average drought levels across California. We will be determining which areas of California are the most affected by the drought and increasing wildfires.
 
+## Referenced data
+
 # Questions asked throughout this project
  • What are the average drought rates over time?
 
