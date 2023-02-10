@@ -1,22 +1,25 @@
-# Project-01    •   `2023-02-07T21:36−08:00`
+# Project-01 - Drought and its Effect on Wildfires throughout California
+   •   `2023-02-07T21:36−08:00`
 ## Aster Harris, Lauren Huffmire, Maddy Gutieruiz, Sara Zhu, Terry Goins
 
-## How is California’s drought altering wildfire frequency and intensity throughout California?
+# Project Background
 
 Climate change, primarily caused by the burning of fossil fuels, is increasing the frequency and severity of wildfires not only in California but also all over the world. Since 1950, the area burned by California wildfires each year has been increasing, as spring and summer temperatures have warmed and spring snowmelt has occurred earlier.- California Air Resources Board
 
 This project will be looking at the effects of drought on California’s wildfire frequency and intensity levels throughout the years 2000 - present. The data used to conduct this analysis will come from California’s Department of Forestry and Fire Protection Services (CalFire) and the United States Drought Monitor. This analysis will be diving into the yearly average acres burned from wildfires and the yearly average drought levels across California. We will be determining which areas of California are the most affected by the drought and increasing wildfires.
 
 # Questions Asked throughout this project
-What are the average drought rates over time?
+ • What are the average drought rates over time?
 
-What is the count of our different drought rates from 2000 - presnt?
+ • What is the count of our different drought rates from 2000 - presnt?
 
-How is California’s drought altering wildfire frequency and intensity throughout California?
+ • How is California’s drought altering wildfire frequency and intensity throughout California?
 
-How do these drought patterns change over time and what levels of drought is CA experiancing?
+ • How do these drought patterns change over time and what levels of drought is CA experiancing?
 
-Where are we seeing wildfires in CA and how big are these fires? 
+ • How is California’s drought altering wildfire frequency and intensity throughout California?
+
+ • Where are we seeing wildfires in CA and how big are these fires? 
 
 # Figures 
 
