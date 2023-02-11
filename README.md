@@ -44,11 +44,12 @@ Figure 2
 Figure 3 is displaying occurances of drought condiations over time. We can see more occurrences of extreme drought levels (Categories D2 - D4) occurring from 2015 - present compared to previous years. 
 
 
-### California areas under drought conditions from 2000 - Present
+### California area under drought conditions from 2000 - Present
 ![Area under drought conditions](https://github.com/aharris206/Project_01/blob/Maddy/Images/CA%20area%20in%20drought_Final.png)
 
 Figure 4 shows the areas of CA experience the higher drought levels (Categories D2 - D4). We can see that there are more areas that experiance D2 - D4 levels of drought more often in 2012 - present.
 
+## Average CA Area under Drought Contidtions from 2000 - Present
 ![Area under drought conditions](https://user-images.githubusercontent.com/119692610/218214583-58f84772-86b7-4559-82f2-99ed0be0ae77.png)
 
 Figure 5 shows the change in the average drought level in California over the 23 year time period. Lauren created this image using a dataframe that she created from calculating the mean Level ID of 2 year periods from the data source.
@@ -71,17 +72,16 @@ The second challenge was dealing with our data. For this project we found two so
 ## Tasks and Contributions
 
 ### Aster Harris - A couple of additions I added that may have been pushed to the main branch. 
-I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`*
-I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (:
+I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`* I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (:
 
 ### Maddy Gutieruiz
-Developed the project proposal documentation, wrote project background, challenges, and analysis, coordinated project tasks for team, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
+Developed the project proposal documentation, wrote project background, challenges, and analysis, coordinated project tasks for team members, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
 
 ### Lauren Huffmire
-Developed the project proposal documentation, wrote project summary, 
+Developed the project proposal documentation, wrote project summary, developed figures 5, compiled figures and developed the presentation.
 
 ### Sara Zhu
-
+Developed figures 1 and 2, developed table 1, compiled figures and developed the presentation. 
 
 ### Terry Goins
-
+Developed figure 7.
