@@ -60,18 +60,20 @@ Figure 4 shows the areas of CA experience the higher drought levels (Categories 
 
 Figure 5 shows the change in the average drought level in California over the 23 year time period. Lauren created this image using a dataframe that she created from calculating the mean Level ID of 2 year periods from the data source.
 
-### Figure 6: 
+### Figure 6: Wildfires across CA from 2013 - 2022
 ![Wildfire_CA 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/Wildfire%20Maps_whole%20state.png)
+
 Figure 6 is a compilation of maps displaying the wildfires in California over time. The blue dots represent wildfires, with the size of the dots representing acreas burned. From these maps we can see the wildfires increase in size from 2015 - 2018. We can also see that more wildfire events occured from 2015 - 2018.
 
-
-### Figure 7: W
+### Figure 7: Wildfires across Southern CA from 2013 - 2022
 ![Wildfire 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/SoCal%20wildfire%20maps.png)
 
 Figure 7 is a compilation of maps displaying the wildfires in Southern California over time. Years displayed on the maps is in order of the top to bottom: 2013 - 2014, 2015 - 2016, 2017 - 2018, 2019 - 2020, 2021 - 2022. The blue dots represent wildfires, with the size of the dots representing acreas burned. From these maps we can see the wildfires increase in size from 2015 - 2018. We can also see that more wildfire events occured from 2015 - 2018.
 
-### Figure 8:
+### Figure 8: Wildfire Acres Burned Vs Latitude 
+![Wildfire 2013 - 2014](https://github.com/aharris206/Project_01/blob/main/Images/Acres%20burned%20vs%20Lat.png)
 
+Figure 8 is displaying wildfire acreas burned vs latitude. From this figure, we can see that locations in CA with a higher latitude had larger wildfire events versus the lower latitude areas in CA. Our hypothesis for this is that the areas with a higher latitude are in Northern California. This area of California contains large areas of dense forests. As drought conditions worsened, many of the trees and vegitation died with the lack of preciputation. This creates large amounts of file fuel that can easily burn, creating larger and more intense wildfires. 
 
 ## Analysis 
 - Overall we are seeing more wildfire occurrences while drought conditions are in severe (D2) to exceptional (D4), especially in Southern CA. 
