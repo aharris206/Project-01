@@ -62,10 +62,10 @@ Figure 5 shows the change in the average drought level in California over the 23
 
 ### Figure 6: 
 Figure 6
-![Wildfire 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/2013-2014.png)
+
 
 ### Figure 7: 
-
+![Wildfire 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/SoCal%20wildfire%20maps.png)
 ### Figure 8:
 
 
