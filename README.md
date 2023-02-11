@@ -40,7 +40,8 @@ Figure 3 is displaying occurances of drought condiations over time. We can see m
 
 Figure 4 shows the areas of CA experience the higher drought levels (Categories D2 - D4). We can see that there are more areas that experiance D2 - D4 levels of drought more often in 2012 - present.
 
-Figure 5
+![Area under drought conditions](https://user-images.githubusercontent.com/119692610/218214583-58f84772-86b7-4559-82f2-99ed0be0ae77.png)
+Figure 5 shows the change in the average drought level in California over the 23 year time period. I created this image using a dataframe that I created from calculating the mean Level ID of 2 year periods from the data source.
 
 Figure 6
 
