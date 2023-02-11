@@ -1,5 +1,5 @@
-# Project-01 - Drought and its Effect on Wildfires throughout California
-   •   `2023-02-07T21:36−08:00`
+# Project 01 - Drought and its Effect on Wildfires throughout California
+
 ## Aster Harris, Lauren Huffmire, Maddy Gutieruiz, Sara Zhu, Terry Goins
 
 # Project Background
