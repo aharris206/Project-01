@@ -64,8 +64,11 @@ Figure 5 shows the change in the average drought level in California over the 23
 Figure 6
 
 
-### Figure 7: 
+### Figure 7: W
 ![Wildfire 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/SoCal%20wildfire%20maps.png)
+
+Figure 7 is a compilation of maps displaying the wildfires in Southern California over time. Years displayed on the maps is in order of the top to bottom: 2013 - 2014, 2015 - 2016, 2017 - 2018, 2019 - 2020, 2021 - 2022. The blue dots represent wildfires, with the size of the dots representing acreas burned. From these maps we can see the wildfires increase in size from 2015 - 2018. We can also see that more wildfire events occured from 2015 - 2018.
+
 ### Figure 8:
 
 
