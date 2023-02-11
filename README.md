@@ -99,7 +99,7 @@ The second challenge was dealing with our data. For this project we found two so
 I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`* I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (: Developed figures 6 and 7.
 
 ### Maddy Gutieruiz
-Developed the project proposal documentation, wrote project background, challenges, and analysis, coordinated project tasks for team members, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
+Developed the project proposal documentation, wrote project background, challenges, analysis, and figure descriptions, coordinated project tasks for team members, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed/finalized the README file.
 
 ### Lauren Huffmire
 Developed the project proposal documentation, wrote project summary, developed figures 5, compiled figures and developed the presentation.
