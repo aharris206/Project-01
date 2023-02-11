@@ -4,7 +4,7 @@
 
 # Project Background
 
-Climate change, primarily caused by the burning of fossil fuels, is increasing the frequency and severity of wildfires not only in California but also all over the world. Since 1950, the area burned by California wildfires each year has been increasing, as spring and summer temperatures have warmed and spring snowmelt has occurred earlier.- California Air Resources Board
+"Climate change, primarily caused by the burning of fossil fuels, is increasing the frequency and severity of wildfires not only in California but also all over the world. Since 1950, the area burned by California wildfires each year has been increasing, as spring and summer temperatures have warmed and spring snowmelt has occurred earlier." - California Air Resources Board
 
 This project will be looking at the effects of drought on California’s wildfire frequency and intensity levels throughout the years 2000 - present. The data used to conduct this analysis will come from California’s Department of Forestry and Fire Protection Services (CalFire) and the United States Drought Monitor. This analysis will be diving into the yearly average acres burned from wildfires and the yearly average drought levels across California. We will be determining which areas of California are the most affected by the drought and increasing wildfires.
 
@@ -34,9 +34,15 @@ Table 1 displays the drought categories from U.S. Drought Monitoring. These cate
 
 # Figures 
 
-Figure 1 
+## Statistical Analysis for CA Drought data
+![Statistical Analysis for CA Drought data](https://github.com/aharris206/Project_01/blob/Maddy/Images/Sara_figure%202.png)
 
-Figure 2 
+Figure 1 shows the statistical analysis for CA drought levels from the year 2000 to present. From this data we can see that the mean is 2.4. This means that the average drought level ranges from moderate (D1) to sevear (D2) drought levels across California.
+
+## Number of Cases per Drought Level from 2000 - Present
+![Number of Cases per Drought Level from 2000 - Present](https://github.com/aharris206/Project_01/blob/Maddy/Images/Saras_figure%201.png)
+
+Figure 2 displays the total count of drought categories between year 2000 to present. 
 
 ### Drought Levels in CA from 2000 - Present
 ![Drought Levels in CA from 2000 - Present](https://github.com/aharris206/Project_01/blob/Maddy/Images/Drought%20Level%20over%20time_Final.png)
