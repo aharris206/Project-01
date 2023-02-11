@@ -55,18 +55,18 @@ Figure 6
 While there can be many factors affecting wildfires, with the data we observed, we believe there is a correlation between higher levels of drought and the frequency/intensity of wildfires in California. We observed that there were more wildfires, and more intense wildfires, in years that California was in a severe to exceptional drought level; therefore, we believe that drought does have an effect on the intensity/frequency of wildfires.
 
 ## Challenges
-Throughout this project we faced a variety of challenges. The first challenge was finding data that could be used to analize how drought levels throughout CA effect wildfires. Orgininally our group wanted to analize preciputation levels across CA over the last 20 years. While looking into publically accessable databases that contained this type of information, we found data that would give us preciputation levels but did not have location of these events. Instead the information for "locations" was described as monitoring station. From this we realized that the preciputation data would not ____  
+Throughout this project we faced a variety of challenges. The first challenge was finding data that could be used to analize how drought levels throughout CA effect wildfires. Orgininally our group wanted to analize preciputation levels across CA over the last 20 years. While looking into publically accessable databases that contained this type of information, we found data that would give us preciputation levels but did not have location of these events. Instead the information for "locations" was described as monitoring stations. From this we realized that the preciputation data would not work for our analysis. After this realization we decided to use the drought data to show how California is affected by the lack of preciputation. 
 
-The second challenge was dealing with our data. For this project we found two sources of data, one being from U.S. Drought Monitoring (drought data) and the other from the California Department of Forestry and Fire Protection Services (Wildfire data). The data required heavy preparation in order to develop clean figures. For the wildfire data, each wildfire was reported as an event, therefore we did not have clean timeframes to graph. 
+The second challenge was dealing with our data. For this project we found two sources of data, one being from U.S. Drought Monitoring (drought data) and the other from the California Department of Forestry and Fire Protection Services (Wildfire data). The data required heavy preparation in order to develop clean figures. For the wildfire data, each wildfire was reported as an event with a Coordinated Universal Time (UTC) stamp. We had adjust the data to bin the wildfires into yearly data so we could look at wildfires over time.  
 
 ## Tasks and Contributions
 
-### • Aster Harris - A couple of additions I added that may have been pushed to the main branch. 
+### Aster Harris - A couple of additions I added that may have been pushed to the main branch. 
 I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`*
 I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (:
 
 ### Maddy Gutieruiz
-Developed the project proposal documentation, wrote project background, coordinated project tasks for team, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation.
+Developed the project proposal documentation, wrote project background, coordinated project tasks for team, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
 
 ### Lauren Huffmire
 
