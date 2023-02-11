@@ -41,7 +41,8 @@ Figure 3 is displaying occurances of drought condiations over time. We can see m
 Figure 4 shows the areas of CA experience the higher drought levels (Categories D2 - D4). We can see that there are more areas that experiance D2 - D4 levels of drought more often in 2012 - present.
 
 ![Area under drought conditions](https://user-images.githubusercontent.com/119692610/218214583-58f84772-86b7-4559-82f2-99ed0be0ae77.png)
-Figure 5 shows the change in the average drought level in California over the 23 year time period. I created this image using a dataframe that I created from calculating the mean Level ID of 2 year periods from the data source.
+
+Figure 5 shows the change in the average drought level in California over the 23 year time period. Lauren created this image using a dataframe that she created from calculating the mean Level ID of 2 year periods from the data source.
 
 Figure 6
 
@@ -54,8 +55,9 @@ Figure 6
 While there can be many factors affecting wildfires, with the data we observed, we believe there is a correlation between higher levels of drought and the frequency/intensity of wildfires in California. We observed that there were more wildfires, and more intense wildfires, in years that California was in a severe to exceptional drought level; therefore, we believe that drought does have an effect on the intensity/frequency of wildfires.
 
 ## Challenges
+Throughout this project we faced a variety of challenges. The first challenge was finding data that could be used to analize how drought levels throughout CA effect wildfires. Orgininally our group wanted to analize preciputation levels across CA over the last 20 years. While looking into publically accessable databases that contained this type of information, we found data that would give us preciputation levels but did not have location of these events. Instead the information for "locations" was described as monitoring station. From this we realized that the preciputation data would not ____  
 
-
+The second challenge was dealing with our data. For this project we found two sources of data, one being from U.S. Drought Monitoring (drought data) and the other from the California Department of Forestry and Fire Protection Services (Wildfire data). The data required heavy preparation in order to develop clean figures. For the wildfire data, each wildfire was reported as an event, therefore we did not have clean timeframes to graph. 
 
 ## Tasks and Contributions
 
