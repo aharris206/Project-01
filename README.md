@@ -13,9 +13,9 @@ This project will be looking at the effects of drought on California’s wildfir
 U.S. Drought Monitor: https://droughtmonitor.unl.edu/DmData/DataDownload/WebServiceInfo.aspx
 California’s Department of Forestry and Fire Protection Services (CalFire): https://www.fire.ca.gov/stats-events/
 
-![Drought Monitoring Categories](https://github.com/aharris206/Project_01/blob/main/Images/Droght_Monitor_Catagory_Key.PNG)
+![Drought Monitoring Categories](https://github.com/aharris206/Project_01/blob/Maddy/Images/Drought%20categories.png)
 
-![Drought Monitoring Categories](https://github.com/aharris206/Project_01/blob/main/Images/Droght_Monitor_Catagory_Key_Expanded.PNG)
+Table 1 displays the drought categories from U.S. Drought Monitoring. These categories are referenced throughout the analysis. 
 
 
 
