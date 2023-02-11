@@ -61,7 +61,8 @@ Figure 4 shows the areas of CA experience the higher drought levels (Categories 
 Figure 5 shows the change in the average drought level in California over the 23 year time period. Lauren created this image using a dataframe that she created from calculating the mean Level ID of 2 year periods from the data source.
 
 ### Figure 6: 
-Figure 6
+![Wildfire_CA 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/Wildfire%20Maps_whole%20state.png)
+Figure 6 is a compilation of maps displaying the wildfires in California over time. The blue dots represent wildfires, with the size of the dots representing acreas burned. From these maps we can see the wildfires increase in size from 2015 - 2018. We can also see that more wildfire events occured from 2015 - 2018.
 
 
 ### Figure 7: W
