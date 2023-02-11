@@ -2,6 +2,8 @@
 
 ## Aster Harris, Lauren Huffmire, Maddy Gutieruiz, Sara Zhu, Terry Goins
 
+Presentation link: https://docs.google.com/presentation/d/19g_-aMqjGOYsJAIINHqKjEaEbIDD1fk8nHKzEEl8MGo/edit?usp=sharing
+
 # Project Background
 
 "Climate change, primarily caused by the burning of fossil fuels, is increasing the frequency and severity of wildfires not only in California but also all over the world. Since 1950, the area burned by California wildfires each year has been increasing, as spring and summer temperatures have warmed and spring snowmelt has occurred earlier." - California Air Resources Board
