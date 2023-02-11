@@ -10,6 +10,11 @@ This project will be looking at the effects of drought on California’s wildfir
 
 ## Referenced data
 
+U.S. Drought Monitor: https://droughtmonitor.unl.edu/DmData/DataDownload/WebServiceInfo.aspx
+California’s Department of Forestry and Fire Protection Services (CalFire): https://www.fire.ca.gov/stats-events/
+
+
+
 # Questions asked throughout this project
  • What are the average drought rates over time?
 
