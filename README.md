@@ -75,11 +75,13 @@ I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data
 I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (:
 
 ### Maddy Gutieruiz
-Developed the project proposal documentation, wrote project background, coordinated project tasks for team, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
+Developed the project proposal documentation, wrote project background, challenges, and analysis, coordinated project tasks for team, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
 
 ### Lauren Huffmire
+Developed the project proposal documentation, wrote project summary, 
 
 ### Sara Zhu
+
 
 ### Terry Goins
 
