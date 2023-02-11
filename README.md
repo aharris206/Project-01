@@ -34,33 +34,38 @@ Table 1 displays the drought categories from U.S. Drought Monitoring. These cate
 
 # Figures 
 
-## Statistical Analysis for CA Drought data
+### Figure 1: Statistical Analysis for CA Drought data
 ![Statistical Analysis for CA Drought data](https://github.com/aharris206/Project_01/blob/Maddy/Images/Sara_figure%202.png)
 
 Figure 1 shows the statistical analysis for CA drought levels from the year 2000 to present. From this data we can see that the mean is 2.4. This means that the average drought level ranges from moderate (D1) to sevear (D2) drought levels across California.
 
-## Number of Cases per Drought Level from 2000 - Present
+### Figure 2: Number of Cases per Drought Level from 2000 - Present
 ![Number of Cases per Drought Level from 2000 - Present](https://github.com/aharris206/Project_01/blob/Maddy/Images/Saras_figure%201.png)
 
 Figure 2 displays the total count of drought categories between year 2000 to present. 
 
-### Drought Levels in CA from 2000 - Present
+### Figure 3: Drought Levels in CA from 2000 - Present
 ![Drought Levels in CA from 2000 - Present](https://github.com/aharris206/Project_01/blob/Maddy/Images/Drought%20Level%20over%20time_Final.png)
 
 Figure 3 is displaying occurances of drought condiations over time. We can see more occurrences of extreme drought levels (Categories D2 - D4) occurring from 2015 - present compared to previous years. 
 
 
-### California area under drought conditions from 2000 - Present
+### Figure 4: California area under drought conditions from 2000 - Present
 ![Area under drought conditions](https://github.com/aharris206/Project_01/blob/Maddy/Images/CA%20area%20in%20drought_Final.png)
 
 Figure 4 shows the areas of CA experience the higher drought levels (Categories D2 - D4). We can see that there are more areas that experiance D2 - D4 levels of drought more often in 2012 - present.
 
-## Average CA Area under Drought Contidtions from 2000 - Present
+### Figure 5: Average CA Area under Drought Contidtions from 2000 - Present
 ![Area under drought conditions](https://user-images.githubusercontent.com/119692610/218214583-58f84772-86b7-4559-82f2-99ed0be0ae77.png)
 
 Figure 5 shows the change in the average drought level in California over the 23 year time period. Lauren created this image using a dataframe that she created from calculating the mean Level ID of 2 year periods from the data source.
 
+### Figure 6: 
 Figure 6
+
+### Figure 7: 
+
+### Figure 8:
 
 ## Analysis 
 - Overall we are seeing more wildfire occurrences while drought conditions are in severe (D2) to exceptional (D4), especially in Southern CA. 
@@ -78,7 +83,7 @@ The second challenge was dealing with our data. For this project we found two so
 ## Tasks and Contributions
 
 ### Aster Harris - A couple of additions I added that may have been pushed to the main branch. 
-I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`* I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (:
+I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data_graphs.ipynb` files which grabbed and plotted data off fire.ca.gov, turned the `ISO 8601` Timestamps it provided into `UNIX` Timestams in order to create a Months column via binning and saved them to CSV. *these can be seen in the `cleaned_csv` file under `Resources`* I also wrote the `CSV_cleaner.ipynb` file as a group resource to aid us all in cleaning up some of our CSVs (: Developed figures 6 and 7.
 
 ### Maddy Gutieruiz
 Developed the project proposal documentation, wrote project background, challenges, and analysis, coordinated project tasks for team members, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, and developed the README.file.
@@ -90,4 +95,4 @@ Developed the project proposal documentation, wrote project summary, developed f
 Developed figures 1 and 2, developed table 1, compiled figures and developed the presentation. 
 
 ### Terry Goins
-Developed figure 7.
+Developed figure 8.
