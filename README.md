@@ -18,7 +18,6 @@ California’s Department of Forestry and Fire Protection Services (CalFire): ht
 Table 1 displays the drought categories from U.S. Drought Monitoring. These categories are referenced throughout the analysis. 
 
 
-
 # Questions asked throughout this project
  • What are the average drought rates over time?
 
@@ -31,6 +30,7 @@ Table 1 displays the drought categories from U.S. Drought Monitoring. These cate
  • How is California’s drought altering wildfire frequency and intensity throughout California?
 
  • Where are we seeing wildfires in CA and how big are these fires? 
+
 
 # Figures 
 
@@ -62,23 +62,28 @@ Figure 5 shows the change in the average drought level in California over the 23
 
 ### Figure 6: 
 Figure 6
+![Wildfire 2013 - 2014](https://github.com/aharris206/Project_01/blob/Maddy/Images/state_fires/whole_state/2013-2014.png)
 
 ### Figure 7: 
 
 ### Figure 8:
+
 
 ## Analysis 
 - Overall we are seeing more wildfire occurrences while drought conditions are in severe (D2) to exceptional (D4), especially in Southern CA. 
 - California has been averaging a higher drought level since 2015, than in the previous 10 years.
 - We are seeing more wildfires and larger burn areas since 2015.
 
+
 ## Summary 
 While there can be many factors affecting wildfires, with the data we observed, we believe there is a correlation between higher levels of drought and the frequency/intensity of wildfires in California. We observed that there were more wildfires, and more intense wildfires, in years that California was in a severe to exceptional drought level; therefore, we believe that drought does have an effect on the intensity/frequency of wildfires.
+
 
 ## Challenges
 Throughout this project we faced a variety of challenges. The first challenge was finding data that could be used to analize how drought levels throughout CA effect wildfires. Orgininally our group wanted to analize preciputation levels across CA over the last 20 years. While looking into publically accessable databases that contained this type of information, we found data that would give us preciputation levels but did not have location of these events. Instead the information for "locations" was described as monitoring stations. From this we realized that the preciputation data would not work for our analysis. After this realization we decided to use the drought data to show how California is affected by the lack of preciputation. 
 
 The second challenge was dealing with our data. For this project we found two sources of data, one being from U.S. Drought Monitoring (drought data) and the other from the California Department of Forestry and Fire Protection Services (Wildfire data). The data required heavy preparation in order to develop clean figures. For the wildfire data, each wildfire was reported as an event with a Coordinated Universal Time (UTC) stamp. We had adjust the data to bin the wildfires into yearly data so we could look at wildfires over time.  
+
 
 ## Tasks and Contributions
 
