@@ -102,7 +102,7 @@ I wrote the `fire_acre_burn.ipynb`, `fire_acre_burn_soCal.ipynb`, and `fire_data
 Developed the project proposal documentation, wrote project background, challenges, analysis, and figure descriptions, coordinated project tasks for team members, found data used throughout the project, created figures 3 and 4, compiled figures and developed the presentation, wrote 'Drought_Graphs_MG.ipynb', and developed/finalized the README file.
 
 ### Lauren Huffmire
-Developed the project proposal documentation, wrote project summary, developed figures 5, compiled figures and developed the presentation.
+Developed the project proposal documentation, wrote project summary, developed figures 5, compiled figures and developed the presentation, and wrote 'lauren.ipynb' to develop figure 5. 
 
 ### Sara Zhu
 Developed figures 1 and 2, developed table 1, compiled figures and developed the presentation. 
